@@ -33,5 +33,5 @@ Steps this package is doing for you
 3. `cd swift-protobuf && swift build`
 4. `protoc --swift_opt=Visibility=Public --swift_out=./Sources/ --plugin=../swift-protobuf/.build/debug/protoc-gen-swift gtfs-realtime.proto`
 
-Plus, it means this code is in a separate package, keeping your project clean and organinzed 💅🏽
+Plus, it means this code is in a separate package, keeping your project clean and organized 💅🏽
 
